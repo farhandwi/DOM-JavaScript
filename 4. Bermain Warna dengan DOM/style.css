@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+}
+body {
+  text-align: center;
+  height: 100%;
+}
+
+.kotak {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+  display: block;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+}
+
+.nilaiRGB {
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+  background-color: white;
+  justify-content: center;
+  margin-top: 20px;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: black;
+}
+
+.nilaiRGB p {
+  margin: 0;
+  padding: 0;
+  line-height: 30px;
+}
+
+.merah {
+  background-color: red;
+}
+
+.hijau {
+  background-color: green;
+}
+
+.biru {
+  background-color: blue;
+}
+
+.biru-muda {
+  background-color: lightblue;
+}
